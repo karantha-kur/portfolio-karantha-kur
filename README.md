@@ -1,4 +1,4 @@
-# Hi I am Karan Thakur
+# Hi, I am Karan Thakur
 
 Know more about me here: https://karantha-kur.github.io/portfolio-karantha-kur/
 

@@ -1,3 +1,7 @@
+#Hi I am Karan Thakur
+
+Know more about me here: https://karantha-kur.github.io/portfolio-karantha-kur/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

@@ -1,0 +1,50 @@
+.icons {
+    text-align: center;
+}
+
+.footer-top h1 {
+    text-align: center;
+    margin: 10px 30px;
+}
+
+#instagram,
+#linkdin,
+#github,
+#medium {
+    font-size: 4em;
+    text-align: center;
+    margin: 10px 20px;
+    background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#instagram:hover,
+#linkdin:hover,
+#github:hover,
+#medium:hover {
+    transition: 0.3s;
+    transform: scale(1.05);
+}
+
+.footer-text {
+    text-align: center;
+}
+
+.un {
+    display: inline-block;
+}
+
+.un::after {
+    content: '';
+    width: 0px;
+    height: 1px;
+    display: block;
+    background: black;
+    transition: 300ms;
+}
+
+.un:hover::after {
+    width: 100%;
+}

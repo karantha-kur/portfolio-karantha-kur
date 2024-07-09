@@ -1,5 +1,6 @@
-# Hi, I am Karan Thakur
+# Hi, I am Karan Thakur/hipprofessional
 
+This repo is for my personal portfolio which highlights my skills and projects. It was created using ReactJs and ViteJs.
 Know more about me here: https://karantha-kur.github.io/portfolio-karantha-kur/
 
 # React + Vite
